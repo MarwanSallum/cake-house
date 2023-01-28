@@ -1,0 +1,75 @@
+
+# Main root ignore ###############################################
+sources
+
+
+# Cake api ignore  ###############################################
+
+/cake_api/node_modules
+/cake_api/public/build
+/cake_api/public/hot
+/cake_api/public/storage
+/cake_api/storage/*.key
+/cake_api/vendor
+/cake_api/.env
+/cake_api/.env.backup
+/cake_api/.env.production
+/cake_api/.phpunit.result.cache
+/cake_api/Homestead.json
+/cake_api/Homestead.yaml
+/cake_api/auth.json
+/cake_api/npm-debug.log
+/cake_api/yarn-error.log
+/cake_api/.fleet
+/cake_api/.idea
+/cake_api/.vscode
+
+
+# Cake app ignore  ###############################################
+
+# Miscellaneous
+/cake_app/*.class
+/cake_app/*.log
+/cake_app/*.pyc
+/cake_app/*.swp
+/cake_app/vvvv.DS_Store
+/cake_app/.atom/
+/cake_app/.buildlog/
+/cake_app/.history
+/cake_app/.svn/
+
+# IntelliJ related
+/cake_app/*.iml
+/cake_app/*.ipr
+/cake_app/*.iws
+/cake_app/.idea/
+
+# The .vscode folder contains launch configuration and tasks you configure in
+# VS Code which you may wish to be included in version control, so this line
+# is commented out by default.
+#.vscode/
+
+# Flutter/Dart/Pub related
+/cake_app/**/doc/api/
+/cake_app/**/ios/Flutter/.last_build_id
+/cake_app/.dart_tool/
+/cake_app/.flutter-plugins
+/cake_app/.flutter-plugins-dependencies
+/cake_app/.packages
+/cake_app/.pub-cache/
+/cake_app/.pub/
+/cake_app/build/
+
+# Web related
+/cake_app/lib/generated_plugin_registrant.dart
+
+# Symbolication related
+/cake_app/app.*.symbols
+
+# Obfuscation related
+/cake_app/app.*.map.json
+
+# Android Studio will place build artifacts here
+/cake_app/android/app/debug
+/cake_app/android/app/profile
+/cake_app/android/app/release
