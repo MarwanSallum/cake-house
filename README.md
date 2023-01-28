@@ -1,6 +1,6 @@
 
 
-![MasterHead](/../cake-house/media/cake_banner.jpg)
+![MasterHead](https://raw.githubusercontent.com/MarwanSallum/cake-house/master/media/cake_banner.jpg)
 <h1 align="center">Hi 👋, Welcome to Cake House Project</h1>
 
 <h3 align="center">An online store project for booking cake from collection or custom design </h3>
